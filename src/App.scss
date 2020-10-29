@@ -1,0 +1,15 @@
+body,
+html {
+  background-color: rgb(20, 20, 20);
+  background-image: url("./components/img/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.main-wrapper {
+  width: 65%;
+  margin: 0 auto;
+  height: 75vh;
+}
+ 
